@@ -1,3 +1,4 @@
+![_31e3bb3a-2f19-4ec0-bf39-a64ae1699b8a](https://github.com/user-attachments/assets/19663920-9314-4944-aa8e-b1bfafa160c2)
 Projeto Podcast Gerado por I.A.s
 ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
 
