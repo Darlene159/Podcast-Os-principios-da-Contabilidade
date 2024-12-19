@@ -8,23 +8,39 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 💻 Tecnologias utilizadas no projeto
+
 ChatGPT
 Bing
 ElevenLabs
 Capcut
+Pixabay
+
 ✨ Como foi feito ?
+
 Roteiro gerado via chatgpt
 Audio gerado pela elevenLabs
 Bing gerador de imagens Para gerar a capa
 Capcut para tratar aúdio e adicionar sons de fundo
+Pixabay para baixar musicas gratuitas
 
 📚 Materiais
-Link da live no Youtube
+
 Notion Template
 Editor de aúdio
-🛠️ Instruções de execução
-Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Editor de vídeo 
+Buscador de musicas gratuitas
 
-🤖 1. Use os prompts de roteiro no chagpt
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-🤖 3. Use os prompts de artes no midjourney
+🛠️ Instruções de execução
+
+Utilizado os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso sigui o passo a passo abaixo:
+
+🤖 1. Usei os prompts de roteiro no chagpt
+🤖 2. Usei os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+🤖 3. Usei os prompts de artes no Bing gerador de imagens 
+🤖 4. Usei o promt do Pixabay para a musica de fundo musical
+
+Links
+https://www.bing.com/images/create?cc=br
+https://www.notion.so/login?redirectURL=%2Fchat
+https://pixabay.com/pt/music/search/musica%20infantil/
+https://www.capcut.com/pt-br/v
